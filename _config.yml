@@ -60,7 +60,7 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-stackoverflow_id: #your stackoverflow id
+stackoverflow_id: "https://math.stackexchange.com/users/231283/shubham-ugare"
 rss_icon: true
 
 dblp_url: https://dblp.org/pid/227/3014.html # your DBLP profile url
