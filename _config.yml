@@ -10,7 +10,7 @@ email: sugare2@illinois.edu
 description: PhD student at UIUC
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon:  # the emoji used as the favicon
+icon: 👨‍💻# the emoji used as the favicon
 url: https://shubhamugare.github.io # the base hostname & protocol for your site
 baseurl: /blog # the subpath of your site, e.g. /blog/
 
