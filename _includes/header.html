@@ -67,21 +67,16 @@
           {% else %}
           <li class="nav-item {% if page.title == p.title %}active{% endif %}">
               <!-- For resume ref to the pdf directly -->
-              <!-- {% if p.title != "resume" %} -->
-              <a class="nav-link" href="{{ p.url | relative_url }}">
-                {{ p.title }}
-                {% if page.title == p.title %}
-                <span class="sr-only">(current)</span>
-                {% endif %}
-              </a>
-              <!-- {% else %}
-                <a class="nav-link" href="{{ https://shubhamugare.github.io/assets/pdf/Resume.pdf }}">
-                {{ p.title }}
-                {% if page.title == p.title %}
-                <span class="sr-only">(current)</span>
-                {% endif %}
+              {% if p.title != "resume" %}
+                <a class="nav-link" href="{{ p.url | relative_url }}">
+                  {{ p.title }}
+                  {% if page.title == p.title %}
+                  <span class="sr-only">(current)</span>
+                  {% endif %}
                 </a>
-              {% endif %} -->
+              {% else %}
+                <a href="https://shubhamugare.github.io/assets/pdf/Resume.pdf"> resume </a>
+              {% endif %}
           </li>
           {% endif %}
           {% endif %}
