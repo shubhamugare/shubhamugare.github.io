@@ -75,7 +75,12 @@
                   {% endif %}
                 </a>
               {% else %}
-                <a href="https://shubhamugare.github.io/assets/pdf/Resume.pdf"> resume </a>
+                <a class="nav-link" href="{{ p.url | relative_url }}">
+                  <a href="https://shubhamugare.github.io/assets/pdf/Resume.pdf"> resume </a>
+                  {% if page.title == p.title %}
+                  <span class="sr-only">(current)</span>
+                  {% endif %}
+                </a>
               {% endif %}
           </li>
           {% endif %}
