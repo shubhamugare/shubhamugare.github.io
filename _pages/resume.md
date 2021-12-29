@@ -5,4 +5,4 @@ title: resume
 nav: true
 ---
 
-<a href="/assets/pdf/Resume.pdf" target="_blank">
+<a href="https://shubhamugare.github.io/assets/pdf/Resume.pdf"> Link </a>
