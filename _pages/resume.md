@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /resume/
+permalink: /assets/pdf/Resume.pdf
 title: resume
 nav: true
 ---
