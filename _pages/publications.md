@@ -7,7 +7,7 @@ description:
 nav: true
 ---
  
-<div class="title"><a href="">Proof Transfer for Fast Certification of Multiple Approximate Neural Networks</a></div>
+<div class="title"><a href="http://shubhamugare.github.io/assets/pdf/FANC_oopsla22.pdf">Proof Transfer for Fast Certification of Multiple Approximate Neural Networks</a></div>
   <div class="author">    
              <nobr> Shubham Ugare,</nobr>       
            <nobr> Gagandeep Singh,</nobr> 
