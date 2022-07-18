@@ -6,10 +6,28 @@ description:
 # years: [2018, 2020, 2021, 2022]
 nav: true
 ---
- 
+
+<div class="title"><a href="http://shubhamugare.github.io/assets/pdf/FANC_oopsla22.pdf">A General Construction for Abstract Interpretation of Higher-Order Automatic Differentiation</a></div>
+  <div class="author"> 
+            <nobr> Jacob Laurel,</nobr>       
+        <nobr> Rem Yang,</nobr>    
+        <nobr> Shubham Ugare,</nobr> 
+        <nobr> Robert Nagel,</nobr>       
+        <nobr> Gagandeep Singh,</nobr> 
+        <nobr> and Sasa Misailovic</nobr>   
+  </div>
+  <div class="periodical">  
+  <em><b>OOPSLA/SPLASH </b></em>      
+    2022
+  </div>
+<div class="links">
+</div>
+
+<br/>
+
 <div class="title"><a href="http://shubhamugare.github.io/assets/pdf/FANC_oopsla22.pdf">Proof Transfer for Fast Certification of Multiple Approximate Neural Networks</a></div>
-  <div class="author">    
-             <nobr> Shubham Ugare,</nobr>       
+  <div class="author"> 
+      <nobr> Shubham Ugare,</nobr>       
            <nobr> Gagandeep Singh,</nobr> 
              <nobr> and Sasa Misailovic</nobr>
   </div>
