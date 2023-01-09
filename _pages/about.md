@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second year PhD student in the Computer Science Department at University of Illinois, Urbana-Champaign. My research interest lies in the intersection of Programming Languages and Machine Learning. I am being advised by [Prof. Sasa Misailovic](http://misailo.web.engr.illinois.edu/) and [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). 
+I am a PhD student in the Computer Science Department at University of Illinois, Urbana-Champaign. My research interest lies in the intersection of Programming Languages and Machine Learning. I am being advised by [Prof. Sasa Misailovic](http://misailo.web.engr.illinois.edu/) and [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). 
 
 My [resume](http://shubhamugare.github.io/assets/pdf/Resume.pdf)
 
