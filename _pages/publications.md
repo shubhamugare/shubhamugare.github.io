@@ -7,6 +7,22 @@ description:
 nav: true
 ---
 
+<div class="title"><a href="http://shubhamugare.github.io/assets/pdf/FANC_oopsla22.pdf">Incremental Verification of Neural Networks</a></div>
+  <div class="author"> 
+      <nobr> Shubham Ugare,</nobr>
+      <nobr> Debangshu Banarjee,</nobr>        
+           <nobr> Sasa Misailovic,</nobr> 
+             <nobr> and Gagandeep Singh</nobr>
+  </div>
+  <div class="periodical">  
+  <em><b>PLDI </b></em>      
+    2023
+  </div>
+<div class="links">
+</div>
+
+<br/>
+
 <div class="title"><a href="http://shubhamugare.github.io/assets/pdf/AbstractAD_OOPSLA22.pdf">A General Construction for Abstract Interpretation of Higher-Order Automatic Differentiation</a></div>
   <div class="author"> 
             <nobr> Jacob Laurel,</nobr>       
