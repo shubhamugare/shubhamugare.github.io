@@ -7,7 +7,7 @@ description:
 nav: true
 ---
 
-<div class="title"><a href="http://shubhamugare.github.io/assets/pdf/FANC_oopsla22.pdf">Incremental Verification of Neural Networks</a></div>
+<div class="title"><a href="http://shubhamugare.github.io/assets/pdf/FANC_oopsla22.pdf"><b>Incremental Verification of Neural Networks</b></a></div>
   <div class="author"> 
       <nobr> Shubham Ugare,</nobr>
       <nobr> Debangshu Banarjee,</nobr>        
@@ -22,7 +22,7 @@ nav: true
 
 <br/>
 
-<div class="title"><a href="http://shubhamugare.github.io/assets/pdf/AbstractAD_OOPSLA22.pdf">A General Construction for Abstract Interpretation of Higher-Order Automatic Differentiation</a></div>
+<div class="title"><a href="http://shubhamugare.github.io/assets/pdf/AbstractAD_OOPSLA22.pdf"><b>A General Construction for Abstract Interpretation of Higher-Order Automatic Differentiation</b></a></div>
   <div class="author"> 
             <nobr> Jacob Laurel,</nobr>       
         <nobr> Rem Yang,</nobr>    
@@ -39,7 +39,7 @@ nav: true
 
 <br/>
 
-<div class="title"><a href="http://shubhamugare.github.io/assets/pdf/FANC_oopsla22.pdf">Proof Transfer for Fast Certification of Multiple Approximate Neural Networks</a></div>
+<div class="title"><a href="http://shubhamugare.github.io/assets/pdf/FANC_oopsla22.pdf"><b>Proof Transfer for Fast Certification of Multiple Approximate Neural Networks</b></a></div>
   <div class="author"> 
       <nobr> Shubham Ugare,</nobr>       
            <nobr> Gagandeep Singh,</nobr> 
@@ -53,7 +53,7 @@ nav: true
 
 <br/>
 
-<div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0304397521003571">Approximate query processing over static sets and sliding windows</a></div>
+<div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0304397521003571"><b>Approximate query processing over static sets and sliding windows</b></a></div>
   <div class="author">    
              <nobr> Ran Ben Basat,</nobr>       
            <nobr> Seungbum Jo,</nobr> 
@@ -69,7 +69,7 @@ nav: true
 
 <br/>
 
-<div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9586276">Statheros: Compiler for Efficient Low-Precision Probabilistic Programming</a></div>
+<div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9586276"><b>Statheros: Compiler for Efficient Low-Precision Probabilistic Programming</b></a></div>
   <div class="author">    
              <nobr> Jacob Laurel,</nobr>       
            <nobr> Rem Yang,</nobr> 
@@ -85,7 +85,7 @@ nav: true
 
 <br/>
 
-<div class="title"><a href="https://arxiv.org/pdf/2012.05064.pdf">Secure Medical Image Analysis with CrypTFlow</a></div>
+<div class="title"><a href="https://arxiv.org/pdf/2012.05064.pdf"><b>Secure Medical Image Analysis with CrypTFlow</b></a></div>
   <div class="author">    
              <nobr> Javier Alvarez-Valle,</nobr>       
            <nobr> Pratik Bhatu ,</nobr> 
@@ -106,7 +106,7 @@ nav: true
 
 <br/>
 
-<div class="title"><a href="https://drops.dagstuhl.de/opus/volltexte/2018/10002/pdf/LIPIcs-ISAAC-2018-54.pdf">Approximate Query Processing over Static Sets and Sliding Windows</a></div>
+<div class="title"><a href="https://drops.dagstuhl.de/opus/volltexte/2018/10002/pdf/LIPIcs-ISAAC-2018-54.pdf"><b>Approximate Query Processing over Static Sets and Sliding Windows</b></a></div>
   <div class="author">    
              <nobr> Ran Ben Basat,</nobr>       
            <nobr> Seungbum Jo,</nobr> 
