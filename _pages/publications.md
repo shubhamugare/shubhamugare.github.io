@@ -15,8 +15,7 @@ nav: true
              <nobr> and Gagandeep Singh</nobr>
   </div>
   <div class="periodical">  
-  <em><b>PLDI </b></em>      
-    2023
+  <em><b>PLDI 2023</b></em>      
   </div>
 <div class="links">
 </div>
@@ -33,8 +32,7 @@ nav: true
         <nobr> and Sasa Misailovic</nobr>   
   </div>
   <div class="periodical">  
-  <em><b>OOPSLA/SPLASH </b></em>      
-    2022
+  <em><b>OOPSLA 2022</b></em>      
   </div>
 <div class="links">
 </div>
@@ -48,8 +46,7 @@ nav: true
              <nobr> and Sasa Misailovic</nobr>
   </div>
   <div class="periodical">  
-  <em><b>OOPSLA/SPLASH </b></em>      
-    2022
+  <em><b>OOPSLA 2022</b></em>      
   </div>
 <div class="links">
 </div>
@@ -64,8 +61,8 @@ nav: true
              <nobr> and Shubham Ugare *</nobr>
   </div>
   <div class="periodical">  
-  <em><b>TCS </b></em>      
-    2021 (Theoretical Computer Science Journal)
+  <em><b>TCS 2021 </b></em>      
+     (Theoretical Computer Science Journal)
   </div>
 <div class="links">
 </div>
@@ -81,8 +78,7 @@ nav: true
              <nobr> and Sasa Misailovic </nobr>
   </div>
   <div class="periodical">  
-  <em><b>DAC </b></em>      
-    2021
+  <em><b>DAC 2021</b></em>      
   </div>
 <div class="links">
 </div>
@@ -102,8 +98,8 @@ nav: true
              <nobr> and Shubham Ugare *</nobr>
   </div>
   <div class="periodical">  
-  <em><b>PPML workshop NeurIPS </b></em>      
-    2020
+  <em><b>NeurIPS 2020 (PPML workshop)</b></em>      
+    
   </div>
 <div class="links">
 </div>
@@ -118,8 +114,7 @@ nav: true
              <nobr> and Shubham Ugare *</nobr>
   </div>
   <div class="periodical">  
-  <em><b>ISAAC </b></em>      
-    2018
+  <em><b>ISAAC 2018</b></em>      
   </div>
 <div class="links">
 </div>
