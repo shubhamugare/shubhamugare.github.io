@@ -10,7 +10,7 @@ nav: true
 <div class="title"><a href="http://shubhamugare.github.io/assets/pdf/FANC_oopsla22.pdf"><b>Incremental Verification of Neural Networks</b></a></div>
   <div class="author"> 
       <nobr> Shubham Ugare,</nobr>
-      <nobr> Debangshu Banarjee,</nobr>        
+      <nobr> Debangshu Banerjee,</nobr>        
            <nobr> Sasa Misailovic,</nobr> 
              <nobr> and Gagandeep Singh</nobr>
   </div>
