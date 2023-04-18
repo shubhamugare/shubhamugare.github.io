@@ -22,6 +22,24 @@ nav: true
 
 <br/>
 
+<div class="title"><a href="https://arxiv.org/abs/2304.07931"><b>TeAAL: A Declarative Framework for Modeling Sparse Tensor Accelerators</b></a></div>
+  <div class="author"> 
+      <nobr> Nandeeka Nayak,</nobr>
+      <nobr> Toluwanimi O. Odemuyiwa,</nobr>
+      <nobr> Shubham Ugare,</nobr>
+      <nobr> Christopher Fletcher,</nobr>        
+      <nobr> Michael Pellauer,</nobr> 
+      <nobr> and Joel Emer</nobr>
+  </div>
+  <div class="periodical">  
+  <em><b>Arxiv 2023</b></em>      
+  </div>
+<div class="links">
+</div>
+
+<br/>
+
+
 <div class="title"><a href="http://shubhamugare.github.io/assets/pdf/AbstractAD_OOPSLA22.pdf"><b>A General Construction for Abstract Interpretation of Higher-Order Automatic Differentiation</b></a></div>
   <div class="author"> 
             <nobr> Jacob Laurel,</nobr>       
