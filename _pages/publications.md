@@ -14,8 +14,8 @@ nav: true
            <nobr> Sasa Misailovic,</nobr> 
              <nobr> and Gagandeep Singh</nobr>
   </div>
-  <div class="periodical">  
-  <em><b>PLDI 2023</b></em>      
+  <div class="periodical"> 
+  <em><b>PLDI 2023</b></em>
   </div>
 <div class="links">
 </div>
@@ -31,8 +31,8 @@ nav: true
       <nobr> Michael Pellauer,</nobr> 
       <nobr> and Joel Emer</nobr>
   </div>
-  <div class="periodical">  
-  <em><b>Arxiv 2023</b></em>      
+  <div class="periodical">
+  <em><b> workshop @ PLDI 2023</b></em>     
   </div>
 <div class="links">
 </div>
@@ -116,7 +116,7 @@ nav: true
              <nobr> and Shubham Ugare *</nobr>
   </div>
   <div class="periodical">  
-  <em><b>NeurIPS 2020 (PPML workshop)</b></em>      
+  <em><b>workshop @ NeurIPS 2020</b></em>      
     
   </div>
 <div class="links">
