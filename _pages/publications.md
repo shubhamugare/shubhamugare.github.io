@@ -7,6 +7,23 @@ description:
 nav: true
 ---
 
+<div class="title"><a href="https://arxiv.org/abs/2305.19521"><b>Incremental Randomized Smoothing Certification
+</b></a></div>
+  <div class="author"> 
+      <nobr> Shubham Ugare,</nobr>
+      <nobr> Tarun Suresh,</nobr>
+      <nobr> Debangshu Banerjee,</nobr>        
+           <nobr> Gagandeep Singh,</nobr> 
+             <nobr> and Sasa Misailovic</nobr>
+  </div>
+  <div class="periodical"> 
+  <em><b>Arxiv 2023</b></em>
+  </div>
+<div class="links">
+</div>
+
+<br/>
+
 <div class="title"><a href="https://arxiv.org/abs/2304.01874"><b>Incremental Verification of Neural Networks</b></a></div>
   <div class="author"> 
       <nobr> Shubham Ugare,</nobr>
