@@ -24,7 +24,7 @@ nav: true
 
 <br/>
 
-<div class="title"><a href="https://arxiv.org/abs/2304.01874"><b>Incremental Verification of Neural Networks</b></a></div>
+<div class="title"><a href="https://dl.acm.org/doi/10.1145/3591299"><b>Incremental Verification of Neural Networks</b></a></div>
   <div class="author"> 
       <nobr> Shubham Ugare,</nobr>
       <nobr> Debangshu Banerjee,</nobr>        
