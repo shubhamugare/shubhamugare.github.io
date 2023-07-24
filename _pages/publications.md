@@ -66,6 +66,7 @@ nav: true
       <nobr> and Joel Emer</nobr>
   </div>
   <div class="periodical">
+    <em><b> MICRO 2023</b></em>  
   <em><b> workshop @ PLDI 2023</b></em>     
   </div>
 <div class="links">
