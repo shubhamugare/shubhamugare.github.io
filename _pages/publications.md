@@ -17,7 +17,7 @@ nav: true
              <nobr> and Sasa Misailovic</nobr>
   </div>
   <div class="periodical"> 
-  <em><b>Arxiv 2023</b></em>
+  <em><b>ICLR 2024</b></em>
   </div>
 <div class="links">
 </div>
