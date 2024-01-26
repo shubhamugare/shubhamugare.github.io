@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD student in the Computer Science Department at University of Illinois, Urbana-Champaign. My research interest lies in the intersection of Programming Languages and Machine Learning. I am being advised by [Prof. Sasa Misailovic](http://misailo.web.engr.illinois.edu/) and [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). 
 
-My [resume](http://shubhamugare.github.io/assets/pdf/Resume.pdf)
+My [resume](http://shubhamugare.github.io/assets/pdf/resume.pdf)
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
