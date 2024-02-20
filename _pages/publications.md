@@ -24,6 +24,22 @@ nav: true
 
 <br/>
 
+<div class="title"><a href="https://arxiv.org/abs/2305.19521"><b>Is Watermarking of LLM-Generated Code Robust?
+</b></a></div>
+  <div class="author"> 
+    <nobr> Tarun Suresh,</nobr>
+      <nobr> Shubham Ugare,</nobr>
+           <nobr> Gagandeep Singh,</nobr> 
+             <nobr> and Sasa Misailovic</nobr>
+  </div>
+  <div class="periodical"> 
+  <em><b>Tiny papers ICLR 2024</b></em>
+  </div>
+<div class="links">
+</div>
+
+<br/>
+
 <div class="title"><a href="http://shubhamugare.github.io/assets/pdf/ICML_workshop.pdf"><b>Toward Continuous Verification of DNNs
 </b></a></div>
   <div class="author"> 
