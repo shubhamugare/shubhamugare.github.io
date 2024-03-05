@@ -7,6 +7,24 @@ description:
 nav: true
 ---
 
+<div class="title"><a href="https://arxiv.org/pdf/2403.01632.pdf"><b>Improving LLM Code Generation with
+Grammar Augmentation
+</b></a></div>
+  <div class="author"> 
+      <nobr> Shubham Ugare,</nobr>
+      <nobr> Tarun Suresh,</nobr>
+      <nobr> Hangoo Kang,</nobr>        
+           <nobr> Sasa Misailovic,</nobr> 
+             <nobr> and Gagandeep Singh</nobr>
+  </div>
+  <div class="periodical"> 
+  <em><b>Arxiv Preprint</b></em>
+  </div>
+<div class="links">
+</div>
+
+<br/>
+
 <div class="title"><a href="https://arxiv.org/abs/2305.19521"><b>Incremental Randomized Smoothing Certification
 </b></a></div>
   <div class="author"> 
