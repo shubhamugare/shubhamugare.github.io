@@ -23,7 +23,11 @@ Grammar Augmentation
 <div class="links">
 </div>
 
-<br/>
+<div class="links">
+    <a href="https://github.com/uiuc-focal-lab/syncode" title="[code]">
+        <i class="fab fa-github"></i>
+    </a>
+</div>
 
 <div class="title"><a href="https://arxiv.org/abs/2305.19521"><b>Incremental Randomized Smoothing Certification
 </b></a></div>
