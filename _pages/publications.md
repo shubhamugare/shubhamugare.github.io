@@ -19,15 +19,12 @@ Grammar Augmentation
   </div>
   <div class="periodical"> 
   <em><b>Arxiv Preprint</b></em>
-  </div>
-  <div class="links">
-        <a href="https://github.com/uiuc-focal-lab/syncode" title="[code]">
+  <a href="https://github.com/uiuc-focal-lab/syncode" title="[code]">
             <i class="fab fa-github" style="font-size: 24px;"></i> 
         </a>
-   </div>
-<div class="links">
-</div>
+  </div>
 
+<br/>
 
 <div class="title"><a href="https://arxiv.org/abs/2305.19521"><b>Incremental Randomized Smoothing Certification
 </b></a></div>
@@ -40,14 +37,10 @@ Grammar Augmentation
   </div>
   <div class="periodical"> 
   <em><b>ICLR 2024</b></em>
-  </div>
-  <div class="links">
-        <a href="https://github.com/uiuc-arc/Incremental-DNN-Verification" title="[code]">
+  <a href="https://github.com/uiuc-arc/Incremental-DNN-Verification" title="[code]">
             <i class="fab fa-github" style="font-size: 24px;"></i> <!-- Adjust font-size as needed -->
         </a>
-   </div>
-<div class="links">
-</div>
+  </div>
 
 <br/>
 
