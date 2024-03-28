@@ -46,7 +46,7 @@ Grammar Augmentation
 
 <br/>
 
-<div class="title"><a href="https://arxiv.org/abs/2305.19521"><b>Is Watermarking of LLM-Generated Code Robust?
+<div class="title"><a href="https://arxiv.org/pdf/2403.17983.pdf"><b>Is Watermarking of LLM-Generated Code Robust?
 </b></a></div>
   <div class="author"> 
     <nobr> Tarun Suresh,</nobr>
