@@ -19,7 +19,7 @@ Grammar Augmentation
   </div>
   <div class="periodical"> 
   <em><b>Arxiv Preprint</b></em>
-  &nbsp &nbsp
+  &nbsp;&nbsp;
   <a href="https://github.com/uiuc-focal-lab/syncode" title="[code]">
             <i class="fab fa-github" style="font-size: 24px;"></i> 
         </a>
@@ -38,7 +38,7 @@ Grammar Augmentation
   </div>
   <div class="periodical"> 
   <em><b>ICLR 2024</b></em>
-  &nbsp &nbsp
+  &nbsp;&nbsp;
   <a href="https://github.com/uiuc-arc/Incremental-DNN-Verification" title="[code]">
             <i class="fab fa-github" style="font-size: 24px;"></i> <!-- Adjust font-size as needed -->
         </a>
