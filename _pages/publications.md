@@ -40,7 +40,7 @@ Grammar Augmentation
   <em><b>ICLR 2024</b></em>
   &nbsp;&nbsp;
   <a href="https://github.com/uiuc-arc/Incremental-DNN-Verification" title="[code]">
-            <i class="fab fa-github" style="font-size: 24px;"></i> <!-- Adjust font-size as needed -->
+            <i class="fab fa-github" style="font-size: 24px;"></i> 
         </a>
   </div>
 
@@ -88,6 +88,10 @@ Grammar Augmentation
   </div>
   <div class="periodical"> 
   <em><b>PLDI 2023</b></em>
+  &nbsp;&nbsp;
+  <a href="https://github.com/uiuc-arc/Incremental-DNN-Verification" title="[code]">
+            <i class="fab fa-github" style="font-size: 24px;"></i> 
+        </a>
   </div>
 <div class="links">
 </div>
@@ -104,7 +108,11 @@ Grammar Augmentation
       <nobr> and Joel Emer</nobr>
   </div>
   <div class="periodical">
-    <em><b> MICRO 2023</b></em>       
+    <em><b> MICRO 2023</b></em> 
+    &nbsp;&nbsp;
+    <a href="https://github.com/FPSG-UIUC/teaal-compiler" title="[code]">
+              <i class="fab fa-github" style="font-size: 24px;"></i> 
+          </a>      
   </div>
   <div class="periodical">
     <em><b> workshop @ PLDI 2023</b></em>      
