@@ -62,22 +62,6 @@ Grammar Augmentation
 
 <br/>
 
-<div class="title"><a href="http://shubhamugare.github.io/assets/pdf/ICML_workshop.pdf"><b>Toward Continuous Verification of DNNs
-</b></a></div>
-  <div class="author"> 
-      <nobr> Shubham Ugare,</nobr>
-      <nobr> Debangshu Banerjee,</nobr>
-      <nobr> Tarun Suresh,</nobr>        
-           <nobr> Gagandeep Singh,</nobr> 
-             <nobr> and Sasa Misailovic</nobr>
-  </div>
-  <div class="periodical"> 
-  <em><b>workshop @ ICML 2023</b></em>
-  </div>
-<div class="links">
-</div>
-
-<br/>
 
 <div class="title"><a href="https://dl.acm.org/doi/10.1145/3591299"><b>Incremental Verification of Neural Networks</b></a></div>
   <div class="author"> 
@@ -97,6 +81,24 @@ Grammar Augmentation
 </div>
 
 <br/>
+
+<div class="title"><a href="http://shubhamugare.github.io/assets/pdf/ICML_workshop.pdf"><b>Toward Continuous Verification of DNNs
+</b></a></div>
+  <div class="author"> 
+      <nobr> Shubham Ugare,</nobr>
+      <nobr> Debangshu Banerjee,</nobr>
+      <nobr> Tarun Suresh,</nobr>        
+           <nobr> Gagandeep Singh,</nobr> 
+             <nobr> and Sasa Misailovic</nobr>
+  </div>
+  <div class="periodical"> 
+  <em><b>workshop @ ICML 2023</b></em>
+  </div>
+<div class="links">
+</div>
+
+<br/>
+
 
 <div class="title"><a href="https://arxiv.org/abs/2304.07931"><b>TeAAL: A Declarative Framework for Modeling Sparse Tensor Accelerators</b></a></div>
   <div class="author"> 
