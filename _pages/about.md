@@ -5,15 +5,11 @@ permalink: /
 description: 
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   address: >
-    <p>Room 3107 </p>
-    <p>Thomas M Siebel Center</p>
-    <p>201 Goodwin Avenue</p>
-    <p> Urbana </p>
-    <p> Illinois, 61801 </p>
-    <p> United States </p>
+    <p> Email: sugare2 at illinois dot edu </p>
+    <p> [CV](http://shubhamugare.github.io/assets/pdf/resume.pdf) </p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
