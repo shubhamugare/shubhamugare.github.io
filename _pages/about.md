@@ -5,11 +5,15 @@ permalink: /
 description: 
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   address: >
-    <p> Email: sugare2 at illinois dot edu </p>
-    <p> [CV](http://shubhamugare.github.io/assets/pdf/resume.pdf) </p>
+    <p>Room 3107 </p>
+    <p>Thomas M Siebel Center</p>
+    <p>201 Goodwin Avenue</p>
+    <p> Urbana </p>
+    <p> Illinois, 61801 </p>
+    <p> United States </p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -20,7 +24,7 @@ I am a PhD student in the Computer Science Department at University of Illinois,
 
 I have strong interest in the intersection of machine learning (ML) and programming language/formal methods research. I care deeply about the future of ML and the role of formal methods in building reliable ML systems. Most recently I created [SynCode](https://github.com/uiuc-focal-lab/syncode), a tool that builds a new parsing technique which can control LLMs to generate output that follows a user-specified formal grammar. Before this, I worked on developing various formal method techniques that can be used to certify ML models. I also spent some time working in industry working on open-source static analysis tools. 
 
-My [resume](http://shubhamugare.github.io/assets/pdf/resume.pdf)
+My [CV](http://shubhamugare.github.io/assets/pdf/resume.pdf)
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
