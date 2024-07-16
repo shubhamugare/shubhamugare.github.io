@@ -7,7 +7,7 @@ description:
 nav: true
 ---
 
-<div class="title"><a href="https://arxiv.org/pdf/2403.01632.pdf"><b>SynCode: LLM Generation with Grammar Augmentation
+<div class="title"><a href="https://arxiv.org/abs/2403.01632"><b>SynCode: LLM Generation with Grammar Augmentation
 </b></a></div>
   <div class="author"> 
       <nobr> Shubham Ugare,</nobr>
