@@ -7,6 +7,25 @@ description:
 nav: true
 ---
 
+<div class="title"><a href=""><b>IterGen: Iterative Structured LLM Generation
+</b></a></div>
+  <div class="author"> 
+      <nobr> Shubham Ugare,</nobr>
+      <nobr> Rohan Gumaste,</nobr>
+      <nobr> Tarun Suresh,</nobr>        
+           <nobr> Gagandeep Singh,</nobr> 
+             <nobr> and Sasa Misailovic </nobr>
+  </div>
+  <div class="periodical"> 
+  <em><b>Arxiv Preprint</b></em>
+  &nbsp;&nbsp;
+  <a href="https://github.com/uiuc-focal-lab/syncode" title="[code]">
+            <i class="fab fa-github" style="font-size: 24px;"></i> 
+        </a>
+  </div>
+
+<br/>
+
 <div class="title"><a href="https://arxiv.org/pdf/2403.01632.pdf"><b>SynCode: LLM Generation with Grammar Augmentation
 </b></a></div>
   <div class="author"> 
