@@ -20,9 +20,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in the Computer Science Department at University of Illinois, Urbana-Champaign. My research interest lies in the intersection of Programming Languages and Machine Learning. I am being advised by [Prof. Sasa Misailovic](http://misailo.web.engr.illinois.edu/) and [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). 
+I am a PhD student in the Computer Science Department at University of Illinois, Urbana-Champaign advised by [Prof. Sasa Misailovic](http://misailo.web.engr.illinois.edu/) and [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). 
 
-My [resume](http://shubhamugare.github.io/assets/pdf/resume.pdf)
+I have strong interest in the intersection of machine learning (ML) and programming language/formal methods research. I care deeply about the future of ML and the role of formal methods in building reliable ML systems. Most recently I created [SynCode](https://github.com/uiuc-focal-lab/syncode), a tool that builds a new parsing technique which can control LLMs to generate output that follows a user-specified formal grammar. Before this, I worked on developing various formal method techniques that can be used to certify ML models. I also spent some time working in industry working on open-source static analysis tools. 
+
+My [CV](http://shubhamugare.github.io/assets/pdf/resume.pdf)
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
