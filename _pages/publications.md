@@ -17,7 +17,7 @@ nav: true
              <nobr> and Sasa Misailovic </nobr>
   </div>
   <div class="periodical"> 
-  <em><b>Preprint</b></em>
+  <em><b>ICLR 2025</b></em>
   &nbsp;&nbsp;
   <a href="https://github.com/uiuc-focal-lab/syncode" title="[code]">
             <i class="fab fa-github" style="font-size: 24px;"></i> 
