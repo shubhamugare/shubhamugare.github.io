@@ -7,7 +7,7 @@ description:
 nav: true
 ---
 
-<div class="title"><a href="https://arxiv.org/abs/2410.07295"><b>IterGen: Iterative Structured LLM Generation
+<div class="title"><a href="https://arxiv.org/abs/2410.07295"><b>IterGen: Iterative Semantic-aware Structured LLM Generation with Backtracking
 </b></a></div>
   <div class="author"> 
       <nobr> Shubham Ugare,</nobr>
