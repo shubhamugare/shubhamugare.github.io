@@ -7,6 +7,24 @@ description:
 nav: true
 ---
 
+<div class="title"><a href="https://arxiv.org/abs/2502.09061"><b>CRANE: Reasoning with constrained LLM generation
+</b></a></div>
+  <div class="author"> 
+      <nobr> Debangshu Banerjee,</nobr>
+      <nobr> Tarun Suresh,</nobr>       
+            <nobr> Shubham Ugare,</nobr>
+             <nobr> and Sasa Misailovic</nobr>
+                        <nobr> Gagandeep Singh,</nobr> 
+
+  </div>
+  <div class="periodical"> 
+  <em>VerifAI workshop @ <b>ICLR 2025</b></em>
+  </div>
+<div class="links"> 
+</div>
+
+<br/>
+
 <div class="title"><a href="https://arxiv.org/abs/2410.07295"><b>IterGen: Iterative Semantic-aware Structured LLM Generation with Backtracking
 </b></a></div>
   <div class="author"> 
@@ -111,9 +129,9 @@ nav: true
              <nobr> and Sasa Misailovic</nobr>
   </div>
   <div class="periodical"> 
-  <em><b>workshop @ ICML 2023</b></em>
+  <em>2nd Workshop on Formal Verification of Machine Learning workshop @ <b>ICML 2023</b></em>
   </div>
-<div class="links">
+<div class="links"> 
 </div>
 
 <br/>
