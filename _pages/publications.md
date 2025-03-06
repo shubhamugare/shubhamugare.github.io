@@ -13,8 +13,8 @@ nav: true
       <nobr> Debangshu Banerjee,</nobr>
       <nobr> Tarun Suresh,</nobr>       
             <nobr> Shubham Ugare,</nobr>
-             <nobr> and Sasa Misailovic</nobr>
-                        <nobr> Gagandeep Singh,</nobr> 
+             <nobr> and Sasa Misailovic,</nobr>
+                        <nobr> Gagandeep Singh</nobr> 
 
   </div>
   <div class="periodical"> 
