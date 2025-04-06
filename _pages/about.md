@@ -7,13 +7,7 @@ description:
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>Room 3107 </p>
-    <p>Thomas M Siebel Center</p>
-    <p>201 Goodwin Avenue</p>
-    <p> Urbana </p>
-    <p> Illinois, 61801 </p>
-    <p> United States </p>
+  address: 
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
