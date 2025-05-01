@@ -23,6 +23,7 @@ nav: true
   <a href="https://github.com/uiuc-focal-lab/syncode" title="[code]">
             <i class="fab fa-github" style="font-size: 24px;"></i> 
   </a>
+  </div>
 <br/>
 
 <div class="title"><a href="https://arxiv.org/abs/2410.07295"><b>IterGen: Iterative Semantic-aware Structured LLM Generation with Backtracking
