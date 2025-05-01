@@ -18,11 +18,11 @@ nav: true
 
   </div>
   <div class="periodical"> 
-  <em>VerifAI workshop @ <b>ICLR 2025</b></em>
-  </div>
-<div class="links"> 
-</div>
-
+  <em><b>ICML 2025</b></em>
+  &nbsp;&nbsp;
+  <a href="https://github.com/uiuc-focal-lab/syncode" title="[code]">
+            <i class="fab fa-github" style="font-size: 24px;"></i> 
+  </a>
 <br/>
 
 <div class="title"><a href="https://arxiv.org/abs/2410.07295"><b>IterGen: Iterative Semantic-aware Structured LLM Generation with Backtracking
@@ -37,7 +37,7 @@ nav: true
   <div class="periodical"> 
   <em><b>ICLR 2025</b></em>
   &nbsp;&nbsp;
-  <a href="https://github.com/uiuc-focal-lab/syncode" title="[code]">
+  <a href="https://github.com/structuredllm/itergen" title="[code]">
             <i class="fab fa-github" style="font-size: 24px;"></i> 
         </a>
   </div>
@@ -152,9 +152,6 @@ nav: true
     <a href="https://github.com/FPSG-UIUC/teaal-compiler" title="[code]">
               <i class="fab fa-github" style="font-size: 24px;"></i> 
           </a>      
-  </div>
-  <div class="periodical">
-    <em><b> workshop @ PLDI 2023</b></em>      
   </div>
 <div class="links">
 </div>
