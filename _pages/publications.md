@@ -56,7 +56,7 @@ nav: true
              <nobr> and Gagandeep Singh</nobr>
   </div>
   <div class="periodical"> 
-  <em><b>Preprint</b></em>
+  <em><b>TMLR 2025</b></em>
   &nbsp;&nbsp;
   <a href="https://github.com/uiuc-focal-lab/syncode" title="[code]">
             <i class="fab fa-github" style="font-size: 24px;"></i> 
@@ -93,7 +93,9 @@ nav: true
              <nobr> and Sasa Misailovic</nobr>
   </div>
   <div class="periodical"> 
-  <em><b>Tiny papers ICLR 2024</b></em>
+  <em>Tiny papers <b> ICLR 2024</b></em> 
+  &nbsp;
+  <span style="color: red;"> (oral)</span>
   </div>
 <div class="links">
 </div>
@@ -130,7 +132,7 @@ nav: true
              <nobr> and Sasa Misailovic</nobr>
   </div>
   <div class="periodical"> 
-  <em>2nd Workshop on Formal Verification of Machine Learning workshop @ <b>ICML 2023</b></em>
+  <em>2nd WFVML @ <b>ICML 2023</b></em>
   </div>
 <div class="links"> 
 </div>
@@ -149,6 +151,8 @@ nav: true
   </div>
   <div class="periodical">
     <em><b> MICRO 2023</b></em> 
+    &nbsp;
+    <span style="color: red;"> (IEEE Micro Top Picks)</span>
     &nbsp;&nbsp;
     <a href="https://github.com/FPSG-UIUC/teaal-compiler" title="[code]">
               <i class="fab fa-github" style="font-size: 24px;"></i> 
@@ -236,7 +240,7 @@ nav: true
              <nobr> and Shubham Ugare *</nobr>
   </div>
   <div class="periodical">  
-  <em><b>workshop @ NeurIPS 2020</b></em>      
+  <em> workshop @ <b> NeurIPS 2020</b></em>      
     
   </div>
 <div class="links">
