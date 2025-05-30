@@ -7,14 +7,33 @@ description:
 nav: true
 ---
 
+<div class="title"><a href="https://arxiv.org/abs/2505.23061"><b>DINGO: Constrained Inference for Diffusion LLMs
+</b></a></div>
+  <div class="author"> 
+    <nobr> Tarun Suresh,</nobr> 
+      <nobr> Debangshu Banerjee,</nobr>
+            <nobr> Shubham Ugare,</nobr>
+             <nobr> Sasa Misailovic,</nobr>
+                        <nobr> and Gagandeep Singh</nobr> 
+  </div>
+  <div class="periodical"> 
+  <em><b>Arxiv Preprint</b></em>
+  &nbsp;&nbsp;
+  <a href="https://github.com/uiuc-focal-lab/syncode" title="[code]">
+            <i class="fab fa-github" style="font-size: 24px;"></i> 
+  </a>
+  </div>
+<br/>
+
+
 <div class="title"><a href="https://arxiv.org/abs/2502.09061"><b>CRANE: Reasoning with constrained LLM generation
 </b></a></div>
   <div class="author"> 
       <nobr> Debangshu Banerjee,</nobr>
       <nobr> Tarun Suresh,</nobr>       
             <nobr> Shubham Ugare,</nobr>
-             <nobr> and Sasa Misailovic,</nobr>
-                        <nobr> Gagandeep Singh</nobr> 
+             <nobr> Sasa Misailovic,</nobr>
+                        <nobr> and Gagandeep Singh</nobr> 
 
   </div>
   <div class="periodical"> 
