@@ -45,6 +45,20 @@ nav: true
   </div>
 <br/>
 
+<div class="title"><a href="https://openreview.net/pdf?id=j2hH02UVch"><b>Byte-level Tokenizers Unavoidably Enable LLMs to Generate Ill-formed UTF-8
+</b></a></div>
+  <div class="author"> 
+      <nobr> Preston Firestone,</nobr>
+            <nobr> Shubham Ugare,</nobr>
+             <nobr> Gagandeep Singh,</nobr>
+                        <nobr> and Sasa Misailovic</nobr> 
+  </div>
+  <div class="periodical"> 
+  <em>TokShop workshop @ <b>ICML 2025</b></em>
+  </div>
+<br/>
+
+
 <div class="title"><a href="https://arxiv.org/abs/2410.07295"><b>IterGen: Iterative Semantic-aware Structured LLM Generation with Backtracking
 </b></a></div>
   <div class="author"> 
