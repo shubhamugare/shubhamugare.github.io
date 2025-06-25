@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: 
 # years: [2018, 2020, 2021, 2022]
-nav: true
+nav: false
 ---
 
 <div class="title"><a href="https://arxiv.org/abs/2505.23061"><b>DINGO: Constrained Inference for Diffusion LLMs
