@@ -114,6 +114,22 @@ I have strong interest in the intersection of machine learning (ML) and programm
 
 <br/>
 
+<div class="title"><a href="https://www.nowpublishers.com/article/Details/PGL-062"><b>Safety and Trust in Artificial Intelligence with Abstract Interpretation</b></a></div>
+  <div class="author"> 
+      <nobr>Gagandeep Singh,</nobr>
+      <nobr>Jacob Laurel,</nobr>
+      <nobr>Sasa Misailovic,</nobr>
+      <nobr>Debangshu Banerjee,</nobr>
+      <nobr>Avaljot Singh,</nobr>
+      <nobr>Changming Xu,</nobr>
+      <nobr>Shubham Ugare,</nobr>
+      <nobr>Huan Zhang</nobr>
+  </div>
+  <div class="periodical"> 
+  <em>Foundations and Trends in Programming Languages, <b>2025</b></em>
+  </div>
+<br/>
+
 <div class="title"><a href="https://arxiv.org/abs/2305.19521"><b>Incremental Randomized Smoothing Certification
 </b></a></div>
   <div class="author"> 
