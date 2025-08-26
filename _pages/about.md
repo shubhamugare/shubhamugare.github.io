@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a research scientist at Meta. Previously, I was a PhD student in the Computer Science Department at University of Illinois, Urbana-Champaign advised by [Prof. Sasa Misailovic](http://misailo.web.engr.illinois.edu/) and [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). 
 
-I have strong interest in the intersection of machine learning (ML) and programming language/formal methods research. Most recently, I worked on [structured LLM generation](https://structuredllm.com/), developing a new parsing techniques that can control LLMs to enforce the syntax and semantics of the generation. Before this, I worked on developing various formal method techniques that can be used to certify ML models. I also worked in the industry on open-source static analysis tools.
+I have strong interest in the intersection of machine learning (ML) and programming language/formal methods research. Most recently, I worked on [structured LLM generation](https://structuredllm.com/), developing new parsing techniques that can control LLMs to enforce the syntax and semantics of the generation. Before this, I worked on developing various formal method techniques that can be used to certify ML models. I also worked in the industry on open-source static analysis tools.
 
 <i class="fas fa-file-pdf"></i> [**My CV**](http://shubhamugare.github.io/assets/pdf/resume.pdf)
 
