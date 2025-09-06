@@ -329,3 +329,27 @@ I have strong interest in the intersection of machine learning (ML) and programm
 <br/>
 
 {*} marked author names are alphabetical
+
+
+---
+
+## Academic Service 
+
+**Organizer**: Neural Network Verification workshop @ ICML 2023, UIUC compiler seminar 
+
+**Journal Reviewer**: TMLR (Transactions on Machine Learning Research), JMLR (Journal of Machine Learning Research) 
+
+**Conference Reviewer**: ICLR 2025, ICML 2024, 2025, NeurIPS 2025, COLM 2025, CAV 2024 - artifact
+
+--- 
+
+## Mentoring 
+
+Mentored undergraduates and master's students at UIUC and coauthored several papers with them. 
+- **Rohan Gumaste** (UIUC BS → MIT PhD) 
+- **Hangoo Kang** (UIUC BS → Stanford MS) 
+- **Yuchen Yang** (UIUC BS → UIUC PhD) 
+- **Tarun Suresh** (UIUC BS) 
+- **Preston Firestone** (UIUC MS) 
+
+---
