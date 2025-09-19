@@ -34,7 +34,7 @@ I have strong interest in the intersection of machine learning (ML) and programm
                         <nobr> and Gagandeep Singh</nobr> 
   </div>
   <div class="periodical"> 
-  <em>Reliable and Responsible Foundation Models @ <b>ICML 2025</b></em>
+  <em>NeurIPS 2025</b></em>
   &nbsp;&nbsp;
   <a href="https://github.com/uiuc-focal-lab/syncode" title="[code]">
             <i class="fab fa-github" style="font-size: 24px;"></i> 
@@ -69,7 +69,7 @@ I have strong interest in the intersection of machine learning (ML) and programm
   <div class="periodical"> 
   <em><b>ICML 2025</b></em>
   &nbsp;&nbsp;
-  <a href="https://github.com/uiuc-focal-lab/syncode" title="[code]">
+  <a href="https://github.com/uiuc-focal-lab/CRANE" title="[code]">
             <i class="fab fa-github" style="font-size: 24px;"></i> 
   </a>
   </div>
