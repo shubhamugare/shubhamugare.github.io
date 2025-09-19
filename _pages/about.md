@@ -34,7 +34,7 @@ I have strong interest in the intersection of machine learning (ML) and programm
                         <nobr> and Gagandeep Singh</nobr> 
   </div>
   <div class="periodical"> 
-  <em>NeurIPS 2025</b></em>
+  <em><b>NeurIPS 2025</b></em>
   &nbsp;&nbsp;
   <a href="https://github.com/uiuc-focal-lab/syncode" title="[code]">
             <i class="fab fa-github" style="font-size: 24px;"></i> 
