@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a research scientist at Meta. Previously, I was a PhD student in the Computer Science Department at University of Illinois, Urbana-Champaign advised by [Prof. Sasa Misailovic](http://misailo.web.engr.illinois.edu/) and [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). 
+I am a research scientist at Meta. I work on AI for code generation and reasoning. Previously, I was a PhD student in the Computer Science Department at University of Illinois, Urbana-Champaign advised by [Prof. Sasa Misailovic](http://misailo.web.engr.illinois.edu/) and [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). 
 
 I have strong interest in the intersection of machine learning (ML) and programming language/formal methods research. Most recently, I worked on [structured LLM generation](https://structuredllm.com/), developing new parsing techniques that can control LLMs to enforce the syntax and semantics of the generation. Before this, I worked on developing various formal method techniques that can be used to certify ML models. I also worked in the industry on open-source static analysis tools.
 
@@ -23,6 +23,33 @@ I have strong interest in the intersection of machine learning (ML) and programm
 ---
 
 ## Publications
+
+<div class="title"><a href="https://openreview.net/forum?id=SAl337ZX5d"><b>RefineStat: Efficient Exploration for Probabilistic Program Synthesis
+</b></a></div>
+  <div class="author">
+      <nobr> Madhav Kanda,</nobr>
+      <nobr> Shubham Ugare,</nobr>
+      <nobr> and Sasa Misailovic</nobr>
+  </div>
+  <div class="periodical">
+  <em><b>ICLR 2026</b></em>
+  </div>
+<br/>
+
+<div class="title"><a href="https://popl26.sigplan.org/details/POPL-2026-tutorials/7/Syntactically-and-Semantically-Constraining-LLMs-with-Guarantees-using-Structured-LLM"><b>Syntactically and Semantically Constraining LLMs with Guarantees using Structured LLM Generation
+</b></a></div>
+  <div class="author">
+      <nobr> Sasa Misailovic,</nobr>
+      <nobr> Gagandeep Singh,</nobr>
+      <nobr> Shubham Ugare,</nobr>
+      <nobr> Debangshu Banerjee,</nobr>
+      <nobr> Tarun Suresh,</nobr>
+      <nobr> and Adharsh Kamath</nobr>
+  </div>
+  <div class="periodical">
+  <em><b>POPL 2026 Tutorials</b></em>
+  </div>
+<br/>
 
 <div class="title"><a href="https://arxiv.org/abs/2505.23061"><b>DINGO: Constrained Inference for Diffusion LLMs
 </b></a></div>
