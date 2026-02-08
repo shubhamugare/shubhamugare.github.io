@@ -33,6 +33,8 @@ I have strong interest in the intersection of machine learning (ML) and programm
   </div>
   <div class="periodical">
   <em><b>ICLR 2026</b></em>
+  &nbsp;
+  <span style="color: red;"> (oral)</span>
   </div>
 <br/>
 
