@@ -38,6 +38,23 @@ I have strong interest in the intersection of machine learning (ML) and programm
   </div>
 <br/>
 
+<div class="title"><a href="https://arxiv.org/abs/2512.23738"><b>Enforcing Temporal Constraints for LLM Agents
+</b></a></div>
+  <div class="author">
+      <nobr> Adharsh Kamath,</nobr>
+      <nobr> Sishen Zhang,</nobr>
+      <nobr> Changming Xu,</nobr>
+      <nobr> Shubham Ugare,</nobr>
+      <nobr> Gagandeep Singh,</nobr>
+      <nobr> and Sasa Misailovic</nobr>
+  </div>
+  <div class="periodical">
+  <em><b>ICLR 2026 Workshop VerifAI-2</b></em>
+  &nbsp;
+  <span style="color: red;"> (oral)</span>
+  </div>
+<br/>
+
 <div class="title"><a href="https://popl26.sigplan.org/details/POPL-2026-tutorials/7/Syntactically-and-Semantically-Constraining-LLMs-with-Guarantees-using-Structured-LLM"><b>Syntactically and Semantically Constraining LLMs with Guarantees using Structured LLM Generation
 </b></a></div>
   <div class="author">
