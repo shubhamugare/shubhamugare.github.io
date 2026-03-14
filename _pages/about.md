@@ -24,6 +24,17 @@ I have strong interest in the intersection of machine learning (ML) and programm
 
 ## Publications
 
+<div class="title"><a href="https://arxiv.org/abs/2603.01896"><b>Agentic Code Reasoning
+</b></a></div>
+  <div class="author">
+      <nobr> Shubham Ugare,</nobr>
+      <nobr> and Satish Chandra</nobr>
+  </div>
+  <div class="periodical">
+  <em>Preprint</em>
+  </div>
+<br/>
+
 <div class="title"><a href="https://openreview.net/forum?id=SAl337ZX5d"><b>RefineStat: Efficient Exploration for Probabilistic Program Synthesis
 </b></a></div>
   <div class="author">
