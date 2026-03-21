@@ -66,6 +66,19 @@ I have strong interest in the intersection of machine learning (ML) and programm
   </div>
 <br/>
 
+<div class="title"><a href="http://shubhamugare.github.io/assets/pdf/fun2spec.pdf"><b>Fun2spec: Code Contract Synthesis At Scale
+</b></a></div>
+  <div class="author">
+      <nobr> Shubham Ugare,</nobr>
+      <nobr> Tarun Suresh,</nobr>
+      <nobr> Sasa Misailovic,</nobr>
+      <nobr> and Julien Vanegue</nobr>
+  </div>
+  <div class="periodical">
+  <em><b>FSE 2026 Industry Track</b></em>
+  </div>
+<br/>
+
 <div class="title"><a href="https://popl26.sigplan.org/details/POPL-2026-tutorials/7/Syntactically-and-Semantically-Constraining-LLMs-with-Guarantees-using-Structured-LLM"><b>Syntactically and Semantically Constraining LLMs with Guarantees using Structured LLM Generation
 </b></a></div>
   <div class="author">
