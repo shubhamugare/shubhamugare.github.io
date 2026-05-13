@@ -419,7 +419,7 @@ Mentored undergraduates and master's students at UIUC and coauthored several pap
 - **Rohan Gumaste** (UIUC BS → MIT PhD) 
 - **Hangoo Kang** (UIUC BS → Stanford MS) 
 - **Yuchen Yang** (UIUC BS → UIUC PhD) 
-- **Tarun Suresh** (UIUC BS) 
+- **Tarun Suresh** (UIUC BS  → Stanford PhD) 
 - **Preston Firestone** (UIUC MS) 
 - **Madhav Kanda** (UIUC MS) 
 
