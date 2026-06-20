@@ -31,7 +31,7 @@ I have strong interest in the intersection of machine learning (ML) and programm
       <nobr> and Satish Chandra</nobr>
   </div>
   <div class="periodical">
-  <em>Preprint</em>
+  <em><b>PAgE workshop @ PLDI 2026</b></em>
   </div>
 <br/>
 
@@ -76,6 +76,20 @@ I have strong interest in the intersection of machine learning (ML) and programm
   </div>
   <div class="periodical">
   <em><b>FSE 2026 Industry Track</b></em>
+  </div>
+<br/>
+
+<div class="title"><a href="#"><b>ARQ: A Mixed-Precision Quantization Framework for Accurate and Certifiably Robust DNNs
+</b></a></div>
+  <div class="author">
+      <nobr> Yuchen Yang,</nobr>
+      <nobr> Shubham Ugare,</nobr>
+      <nobr> Yifan Zhao,</nobr>
+      <nobr> Gagandeep Singh,</nobr>
+      <nobr> and Sasa Misailovic</nobr>
+  </div>
+  <div class="periodical">
+  <em><b>ISSTA 2026</b></em>
   </div>
 <br/>
 
